@@ -5,7 +5,6 @@
 
 using namespace std;
 
-
 // Recebe o numero de embarcacoes do usuario
 int n_barcos() {
 	int i;
@@ -316,10 +315,3 @@ int main() {
 	}
 	return(0);
 }
-
-
-
-
-
-
-
